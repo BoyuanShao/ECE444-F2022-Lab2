@@ -19,3 +19,13 @@ Activity 3:
 
 <img width="637" alt="截屏2022-09-28 下午1 56 49" src="https://user-images.githubusercontent.com/59927679/192854732-aeade1c5-946b-4448-976a-1e6fed557f61.png">
 
+Activity 4:
+
+<img width="678" alt="Screen Shot 2022-09-28 at 3 25 45 PM" src="https://user-images.githubusercontent.com/59927679/192872627-341ce14d-c88f-4089-b68e-68fc3cd9d41b.png">
+
+<img width="1036" alt="Screen Shot 2022-09-28 at 3 26 19 PM" src="https://user-images.githubusercontent.com/59927679/192872638-ab6d5216-5e70-45ad-9aa5-fd18d185ef51.png">
+
+<img width="1045" alt="Screen Shot 2022-09-28 at 3 27 02 PM" src="https://user-images.githubusercontent.com/59927679/192872663-18a6e6a2-0759-4a8b-9914-21f0221fe490.png">
+
+<img width="1034" alt="Screen Shot 2022-09-28 at 3 28 30 PM" src="https://user-images.githubusercontent.com/59927679/192872677-f29b69ed-ff62-4df7-9dd0-8b3d95f3e841.png">
+

@@ -17,4 +17,5 @@ Activity 2:
 
 Activity 3:
 
-<img width="1021" alt="截屏2022-09-28 下午1 49 25" src="https://user-images.githubusercontent.com/59927679/192853852-441cbff0-8e12-4117-ba58-31ca374d83eb.png">
+<img width="637" alt="截屏2022-09-28 下午1 56 49" src="https://user-images.githubusercontent.com/59927679/192854732-aeade1c5-946b-4448-976a-1e6fed557f61.png">
+

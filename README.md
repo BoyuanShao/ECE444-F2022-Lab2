@@ -3,7 +3,7 @@ Boyuan Shao
 this repo is a clone of 
 https://github.com/miguelgrinberg/flasky. 
 
-Commits are done in branches that corresponds to the part number (i.e. Activity 3 -> branch "3")
+Commits are done in branches that corresponds to the activity number (i.e. Activity 3 -> branch "3")
 
 
 ## Activity 1:
